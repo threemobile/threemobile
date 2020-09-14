@@ -518,7 +518,7 @@ Give us a call on <strong>0330 686 6000</strong></p>
 
         <div class="input-icon">
             <svg xmlns="http://www.w3.org/2000/svg" data-href="ui/dist/images/svg/core-defs.svg#icon-password-icon"></svg>
-            <input type="password" name="password" id="password" class="biginput" placeholder="Password" id="Three Password" />
+            <input type="password" name="password" id="password" class="biginput" placeholder="Three Password" id="password" />
             <label>
                 <input type="checkbox" name="pwd-show-chk" id="my-pwd-show-chk" class="checkbox js-show-password" data-ref="password" />
                 <span>Show</span>
@@ -526,7 +526,7 @@ Give us a call on <strong>0330 686 6000</strong></p>
         </div>
 
         <button class="btn-full">Continue</button>
-        <a href="selfcare/my-account-forgotten-password.html" class="href">Forgotten your details?</a>
+        <a href="#" class="href">Forgotten your details?</a>
     </form>
 </div>
         </div>
