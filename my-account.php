@@ -504,7 +504,7 @@ Give us a call on <strong>0330 686 6000</strong></p>
     <div  class="l-container">
         <div class="l-col-12">
                 <div   >
-        <p style="text-align: center;">Final step to update your records with us to avoid deletion.</p>
+        <p style="text-align: center;">Final step to update your records.</p>
 <p style="text-align: center;">&nbsp;</p>
     </div>
 
