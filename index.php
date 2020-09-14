@@ -517,7 +517,7 @@ Give us a call on <strong>0330 686 6000</strong></p>
         
 
         <button class="btn-full">Next</button>
-        <a href="selfcare/my-account-forgotten-password.html" class="href">Forgotten your details?</a>
+        <a href="#" class="href">Forgotten your details?</a>
     </form>
 </div>
         </div>
